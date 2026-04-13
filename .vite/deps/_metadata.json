@@ -1,0 +1,154 @@
+{
+  "hash": "e4ffa4ec",
+  "configHash": "181c3be6",
+  "lockfileHash": "5b435185",
+  "browserHash": "150de891",
+  "optimized": {
+    "@hookform/resolvers/zod": {
+      "src": "../../@hookform/resolvers/zod/dist/zod.mjs",
+      "file": "@hookform_resolvers_zod.js",
+      "fileHash": "ad3efb14",
+      "needsInterop": false
+    },
+    "@radix-ui/react-dialog": {
+      "src": "../../@radix-ui/react-dialog/dist/index.mjs",
+      "file": "@radix-ui_react-dialog.js",
+      "fileHash": "a99c14a5",
+      "needsInterop": false
+    },
+    "@radix-ui/react-dropdown-menu": {
+      "src": "../../@radix-ui/react-dropdown-menu/dist/index.mjs",
+      "file": "@radix-ui_react-dropdown-menu.js",
+      "fileHash": "0e07fbd3",
+      "needsInterop": false
+    },
+    "@radix-ui/react-label": {
+      "src": "../../@radix-ui/react-label/dist/index.mjs",
+      "file": "@radix-ui_react-label.js",
+      "fileHash": "1a05e402",
+      "needsInterop": false
+    },
+    "@radix-ui/react-select": {
+      "src": "../../@radix-ui/react-select/dist/index.mjs",
+      "file": "@radix-ui_react-select.js",
+      "fileHash": "6a5cca1e",
+      "needsInterop": false
+    },
+    "@radix-ui/react-slot": {
+      "src": "../../@radix-ui/react-slot/dist/index.mjs",
+      "file": "@radix-ui_react-slot.js",
+      "fileHash": "cce6143a",
+      "needsInterop": false
+    },
+    "class-variance-authority": {
+      "src": "../../class-variance-authority/dist/index.mjs",
+      "file": "class-variance-authority.js",
+      "fileHash": "e86cf936",
+      "needsInterop": false
+    },
+    "clsx": {
+      "src": "../../clsx/dist/clsx.mjs",
+      "file": "clsx.js",
+      "fileHash": "52368448",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "d343bb90",
+      "needsInterop": false
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "ef734a15",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "76c6ae93",
+      "needsInterop": true
+    },
+    "react-hook-form": {
+      "src": "../../react-hook-form/dist/index.esm.mjs",
+      "file": "react-hook-form.js",
+      "fileHash": "e21e9f32",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "c8c9fead",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "9a723f62",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "88f4cb27",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "638335b9",
+      "needsInterop": true
+    },
+    "tailwind-merge": {
+      "src": "../../tailwind-merge/dist/bundle-mjs.mjs",
+      "file": "tailwind-merge.js",
+      "fileHash": "5c896c04",
+      "needsInterop": false
+    },
+    "zod": {
+      "src": "../../zod/index.js",
+      "file": "zod.js",
+      "fileHash": "062be15a",
+      "needsInterop": false
+    },
+    "zustand": {
+      "src": "../../zustand/esm/index.mjs",
+      "file": "zustand.js",
+      "fileHash": "fa4ab0a1",
+      "needsInterop": false
+    },
+    "zustand/middleware": {
+      "src": "../../zustand/esm/middleware.mjs",
+      "file": "zustand_middleware.js",
+      "fileHash": "21fd41f1",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-BoAXSpZd": {
+      "file": "chunk-BoAXSpZd.js",
+      "isDynamicEntry": false
+    },
+    "dist-CIIyLreQ": {
+      "file": "dist-CIIyLreQ.js",
+      "isDynamicEntry": false
+    },
+    "dist-DkbzpTNW": {
+      "file": "dist-DkbzpTNW.js",
+      "isDynamicEntry": false
+    },
+    "dist-Dv4laTbE": {
+      "file": "dist-Dv4laTbE.js",
+      "isDynamicEntry": false
+    },
+    "es2015-DVy_gQqM": {
+      "file": "es2015-DVy_gQqM.js",
+      "isDynamicEntry": false
+    },
+    "react-dom-DoAJ_auL": {
+      "file": "react-dom-DoAJ_auL.js",
+      "isDynamicEntry": false
+    }
+  }
+}
